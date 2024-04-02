@@ -84,6 +84,7 @@ button {
     padding: 10px;
     width: 30%;
     font-weight: bold;
+    float: right;
 }
 
 .content{
